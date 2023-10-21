@@ -6,7 +6,7 @@ function App() {
   return (
     <>
 
-      <h1>Vite appp</h1>
+      <h1>my vite-app</h1>
       <Todo
         task="learn react"
       />
